@@ -98,10 +98,10 @@ The Process Documentation Owner keeps project management documentation current, 
 
 ---
 
-## Stakeholder Liaisons
+## Stakeholder Liaison
 
 ### Role Summary
-Stakeholder Liaisons help manage communication between the delivery team and business, customer, or partner stakeholders. They make sure updates, concerns, and decisions move between groups with clear ownership.
+The Stakeholder Liaison helps manage communication between the delivery team and business, customer, or partner stakeholders. This role makes sure updates, concerns, and decisions move between groups with clear ownership.
 
 ### Responsibilities
 - Identify stakeholder groups and document their communication needs
@@ -121,10 +121,10 @@ Stakeholder Liaisons help manage communication between the delivery team and bus
 
 ---
 
-## Release Coordinators
+## Release Coordinator
 
 ### Role Summary
-Release Coordinators organize release readiness activities and help teams move changes to production in a predictable, low-risk way. They focus on timing, readiness checks, and cross-functional coordination.
+The Release Coordinator organizes release readiness activities and helps teams move changes to production in a predictable, low-risk way. This role focuses on timing, readiness checks, and cross-functional coordination.
 
 ### Responsibilities
 - Maintain release checklists, schedules, and readiness criteria
@@ -144,10 +144,10 @@ Release Coordinators organize release readiness activities and help teams move c
 
 ---
 
-## Risk and Dependency Coordinators
+## Risk and Dependency Coordinator
 
 ### Role Summary
-Risk and Dependency Coordinators keep cross-team risks and dependencies visible, current, and actionable. They help teams surface blockers early and make sure mitigation owners and follow-up plans are clear.
+The Risk and Dependency Coordinator keeps cross-team risks and dependencies visible, current, and actionable. This role helps teams surface blockers early and make sure mitigation owners and follow-up plans are clear.
 
 ### Responsibilities
 - Maintain and review the risk register and dependency tracking artifacts
@@ -167,10 +167,10 @@ Risk and Dependency Coordinators keep cross-team risks and dependencies visible,
 
 ---
 
-## Feedback and Retrospective Facilitators
+## Feedback and Retrospective Facilitator
 
 ### Role Summary
-Feedback and Retrospective Facilitators run structured reflection and feedback activities so teams can learn from delivery work and turn those lessons into improvements. They help create a consistent, action-oriented improvement loop.
+The Feedback and Retrospective Facilitator runs structured reflection and feedback activities so teams can learn from delivery work and turn those lessons into improvements. This role helps create a consistent, action-oriented improvement loop.
 
 ### Responsibilities
 - Plan and facilitate retrospectives after sprints, releases, milestones, or incidents
