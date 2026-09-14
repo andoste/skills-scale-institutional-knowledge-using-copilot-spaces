@@ -75,10 +75,10 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## Process Documentation Owners
+## Process Documentation Owner
 
 ### Role Summary
-Process Documentation Owners keep project management documentation current, usable, and aligned with how teams actually work. They help preserve a reliable source of truth across planning, execution, and reporting.
+The Process Documentation Owner keeps project management documentation current, usable, and aligned with how teams actually work. This role helps preserve a reliable source of truth across planning, execution, and reporting.
 
 ### Responsibilities
 - Maintain process documents, templates, and role definitions
@@ -144,10 +144,10 @@ Release Coordinators organize release readiness activities and help teams move c
 
 ---
 
-## Risk/Dependency Coordinators
+## Risk and Dependency Coordinators
 
 ### Role Summary
-Risk/Dependency Coordinators keep cross-team risks and dependencies visible, current, and actionable. They help teams surface blockers early and make sure mitigation owners and follow-up plans are clear.
+Risk and Dependency Coordinators keep cross-team risks and dependencies visible, current, and actionable. They help teams surface blockers early and make sure mitigation owners and follow-up plans are clear.
 
 ### Responsibilities
 - Maintain and review the risk register and dependency tracking artifacts
@@ -167,10 +167,10 @@ Risk/Dependency Coordinators keep cross-team risks and dependencies visible, cur
 
 ---
 
-## Feedback/Retrospective Facilitators
+## Feedback and Retrospective Facilitators
 
 ### Role Summary
-Feedback/Retrospective Facilitators run structured reflection and feedback activities so teams can learn from delivery work and turn those lessons into improvements. They help create a consistent, action-oriented improvement loop.
+Feedback and Retrospective Facilitators run structured reflection and feedback activities so teams can learn from delivery work and turn those lessons into improvements. They help create a consistent, action-oriented improvement loop.
 
 ### Responsibilities
 - Plan and facilitate retrospectives after sprints, releases, milestones, or incidents
